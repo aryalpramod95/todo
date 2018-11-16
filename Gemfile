@@ -12,6 +12,11 @@ gem 'rails', '~> 5.1.6'
 gem 'sqlite3'
 
 gem 'coffee-script-source', '1.8.0'
+
+
+gem "rack", ">= 2.0.6"
+
+
 # Use Puma as the app server
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
